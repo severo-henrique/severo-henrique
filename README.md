@@ -8,10 +8,9 @@
     
 <div style="display: inline_block"><br>
  
- 
 <br>
+ estudante de programação / 001% carregando... 
 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
  
